@@ -1,0 +1,4 @@
+number_guessing_web/
+├── app.py
+└── templates/
+    └── index.html
