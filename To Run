@@ -1,0 +1,28 @@
+1. Install Python
+bash
+python --version
+
+2. Install Flask
+bash
+pip install flask
+
+3. Create Project Files
+A. Create a folder for your project:
+bash
+mkdir number_guessing_web
+cd number_guessing_web
+
+B. Create app.py file:
+bash
+notepad app.py  # or use any code editor like VSCode
+
+C. Create templates folder and HTML file:
+bash
+mkdir templates
+notepad templates/index.html
+
+4. Run the App
+In the terminal (inside the project folder), run:
+
+bash
+python app.py
